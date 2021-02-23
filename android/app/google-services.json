@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "528025808353",
+    "project_id": "anexa-6e0ff",
+    "storage_bucket": "anexa-6e0ff.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:528025808353:android:b9223eeda47b5b3006b6a0",
+        "android_client_info": {
+          "package_name": "com.example.anexa"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "528025808353-mgb4pku8nu3lcprh2g3ok2058olfdq25.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.anexa",
+            "certificate_hash": "7397a731e118a69f8e541e6636903a53caf730a2"
+          }
+        },
+        {
+          "client_id": "528025808353-4lm4l31004krl3ioc5eme362dcs1jvu8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAcQKXjoPpP_WmDU1dGvy23PfexzixkQ-8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "528025808353-4lm4l31004krl3ioc5eme362dcs1jvu8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
